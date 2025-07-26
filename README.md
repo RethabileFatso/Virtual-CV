@@ -1,5 +1,3 @@
-# Virtual-CV
-
 # Virtual CV Portfolio – React
 
 A dynamic portfolio website built using React and Tailwind CSS.  
